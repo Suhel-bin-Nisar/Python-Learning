@@ -13,7 +13,7 @@ I am following a structured Python course and uploading my work chapter by chapt
 | Chapter | Topic | Status |
 |---------|-------|--------|
 | Chapter 01 | Modules, Comments & PIP | ✅ Completed |
-| Chapter 02 | — | ⏳ Upcoming |
+| Chapter 02 | Variables, Data Types & Operators | ✅ Completed |
 | Chapter 03 | — | ⏳ Upcoming |
 | Chapter 04 | — | ⏳ Upcoming |
 | Chapter 05 | — | ⏳ Upcoming |
