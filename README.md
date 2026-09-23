@@ -16,7 +16,7 @@ I am following a structured Python course and uploading my work chapter by chapt
 | Chapter 02 | Variables, Data Types & Operators | ✅ Completed |
 | Chapter 03 | Strings | ✅ Completed |
 | Chapter 04 | Lists and Tuples | ✅ Completed |
-| Chapter 05 | — | ⏳ Upcoming |
+| Chapter 05 | Dictionaries and Sets | ✅ Completed |
 | Chapter 06 | — | ⏳ Upcoming |
 | Chapter 07 | — | ⏳ Upcoming |
 | Chapter 08 | — | ⏳ Upcoming |
