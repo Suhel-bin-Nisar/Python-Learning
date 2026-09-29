@@ -18,7 +18,7 @@ I am following a structured Python course and uploading my work chapter by chapt
 | Chapter 04 | Lists and Tuples | ✅ Completed |
 | Chapter 05 | Dictionaries and Sets | ✅ Completed |
 | Chapter 06 | Conditional Expression | ✅ Completed |
-| Chapter 07 | — | ⏳ Upcoming |
+| Chapter 07 | Loops in Python | ✅ Completed |
 | Chapter 08 | — | ⏳ Upcoming |
 | Chapter 09 | — | ⏳ Upcoming |
 | Chapter 10 | — | ⏳ Upcoming |
