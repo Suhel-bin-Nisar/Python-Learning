@@ -19,7 +19,7 @@ I am following a structured Python course and uploading my work chapter by chapt
 | Chapter 05 | Dictionaries and Sets | ✅ Completed |
 | Chapter 06 | Conditional Expression | ✅ Completed |
 | Chapter 07 | Loops in Python | ✅ Completed |
-| Chapter 08 | — | ⏳ Upcoming |
+| Chapter 08 | Functions & Recursions | ✅ Completed |
 | Chapter 09 | — | ⏳ Upcoming |
 | Chapter 10 | — | ⏳ Upcoming |
 | Chapter 11 | — | ⏳ Upcoming |
